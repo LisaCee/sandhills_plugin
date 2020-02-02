@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: Show_my_ip
+ * Plugin Name: View_my_ip
  * Description: A simple custom post type with a shortcode to show users ip address
  * Version: 1.0
  * Author: Lisa Canini

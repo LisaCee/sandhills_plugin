@@ -12,3 +12,8 @@ This is my submission for the sample project given to me by [Pippin Williamson](
     - [x] Stores IP in transient for one hour
     - [x] Refreshes when transient expires
     - [x] Output on a page using shortcode
+
+## Tools used
+I did <b>A LOT</b> of Googling for this project.  
+
+Among other tools, I did install Transients Manager, a plugin created by Pippin Williamson.  I did not seek out to use a plugin made by him, but it was suggested as a tool to test my transient.  

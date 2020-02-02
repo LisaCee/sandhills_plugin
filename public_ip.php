@@ -7,8 +7,6 @@
  * Author URI: http://www.lisacanini.com
  */
 
-// creating action
-add_action('ip_content', 'get_my_ip');
 
 function get_my_ip() {
     //check if saved data
@@ -22,7 +20,9 @@ function get_my_ip() {
     set_transient('body', $body, HOUR_IN_SECONDS);
     //print ip address to site
     printf('<p id="my_ip">Your IP address is: <b>%s</b></p>', $body);
-  
+    
 }
+// creating action
+add_action('ip_content', 'get_my_ip');
 //creating shortcode
 add_shortcode('ip_address', 'get_my_ip');

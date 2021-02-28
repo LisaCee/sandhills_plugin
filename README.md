@@ -2,10 +2,10 @@
 
 This is my submission for the sample project given to me by [Pippin Williamson](https://pippin.com/) as part of my interview for Junior Developer at [Sandhills Development](https://sandhillsdev.com/).
 
-- [ ] Registers a public custom post type that is:
-    - [ ] Viewable from the front end
-    - [ ] Visable within WordPress backend admin area
-    - [ ] Searchable from frontend using WordPress search
+- [x] Registers a public custom post type that is:
+    - [x] Viewable from the front end
+    - [x] Visable within WordPress backend admin area
+    - [x] Searchable from frontend using WordPress search
 - [x] Registers a new shortcode to display content from external API that:
     - [x] Has a name
     - [x] Retrieves the public IP address of user from [whatismyipaddress](http://bot.whatismyipaddress.com)
